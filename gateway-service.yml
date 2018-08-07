@@ -1,2 +1,2 @@
-toast: 'to evil!'
+toast: 'Hello from k8s!'
 session.service.baseUrl: 'http://session-service-lb/sessions'
